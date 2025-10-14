@@ -7,6 +7,7 @@ gem "jekyll-sitemap"
 gem "jekyll-feed"
 gem "webrick"
 gem "minima", "~> 2.5"
+gem "jekyll-paginate"
 
 group :jekyll_plugins do
   gem "jekyll-remote-theme"
