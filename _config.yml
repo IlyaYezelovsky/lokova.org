@@ -84,10 +84,10 @@ paginate_path: "/page:num/"
 # ==============================================
 
 # 主题设置
-#theme: cayman  # 使用 cayman 主题
+theme: minima  # 使用 minima 主题
 
 # 或者使用远程主题
-remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/cayman@v0.2.0
 
 # Sass 设置
 sass:
