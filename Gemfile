@@ -6,6 +6,7 @@ gem "jekyll-remote-theme"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
 gem "webrick"
+gem "minima", "~> 2.5"
 
 group :jekyll_plugins do
   gem "jekyll-remote-theme"
