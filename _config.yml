@@ -20,7 +20,7 @@ baseurl: ""  # 通常留空，除非站点在子目录中
 # 站点语言
 lang: "zh-CN"
 encoding: "utf-8"
-timezone: "Asia/Irkutsk"
+timezone: "Asia/Shanghai"
 
 # ==============================================
 # 构建设置
@@ -84,10 +84,10 @@ paginate_path: "/page:num/"
 # ==============================================
 
 # 主题设置
-theme: cayman  # 使用 cayman 主题
+#theme: cayman  # 使用 cayman 主题
 
 # 或者使用远程主题
-# remote_theme: jekyll/cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Sass 设置
 sass:
