@@ -5,8 +5,11 @@ gem "jekyll-sass-converter", "~> 3.1.0"
 gem "jekyll-remote-theme"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
+gem "webrick"
 
 group :jekyll_plugins do
+  gem "jekyll-remote-theme"
+  gem "jekyll-seo-tag"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
 end
