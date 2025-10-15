@@ -116,19 +116,19 @@ seo:
   author: true
 
 # 作者信息
-author:
-  name: "IlyaYezelovsky"
-  email: "ilyayezelovsky@gmail.com"
-  twitter: "ilya_sawmill"
-  github: "IlyaYezelovsky"
+#author:
+#  name: "IlyaYezelovsky"
+#  email: "ilyayezelovsky@gmail.com"
+#  twitter: "ilya_sawmill"
+#  github: "IlyaYezelovsky"
 
 # 社交媒体链接
-social:
-  name: "IlyaYezelovsky"
-  links:
-    - "https://github.com/IlyaYezelovsky"
-    - "https://x.com/ilya_sawmill"
-    - "https://space.bilibili.com/3493084490893445"
+#social:
+#  name: "IlyaYezelovsky"
+#  links:
+#    - "https://github.com/IlyaYezelovsky"
+#    - "https://x.com/ilya_sawmill"
+#    - "https://space.bilibili.com/3493084490893445"
 
 # ==============================================
 # 评论系统（可选）
