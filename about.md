@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "关于我们"
+title: "About"
+nav_order: 2
 ---
 
 ## 我们是谁？
