@@ -5,14 +5,26 @@ show-title: false
 nav_order: 1
 ---
 
-> 世界是一座巨大的垃圾场。而我们每个人的生活，不过是在垃圾场中寻找有回收利用价值的物品。
-> 
-> 有人在垃圾场中失去生的希望，尸体与垃圾融为一体；有人却能用找到的电子元件，搭建起一台像模像样、性能不输品牌机的服务器。
-> 
-> 那我们就用这些回收到的东西，堆砌成一座城市！
-> 
-> The world is a giant garbage dump, and each of our lives is nothing more than searching for items worth recycling in it.
-> 
-> Some people lose hope of life in the garbage dump, and their bodies merge with the garbage; but some people can use the electronic components they find to build a decent server with performance that is no less than that of branded machines.
-> 
-> Then, we use these recycled things，to build a city!
+> 这个世界是一座巨大的垃圾场。  
+> 若有人于其中失去生的希望，他的尸骨便与垃圾一同腐烂；  
+> 有人却能用从中回收的材料，堆砌成一座城市。
+>
+> **这里是洛科瓦，一座建造在垃圾废墟之上的城市，也是希望的堆叠之地。**
+
+## 垃圾之上有谁？
+
+有人用废铁搭起房屋，  
+有人用电子元件建立信息系统。
+
+也有人坐在垃圾堆的最高处，  
+嘲笑着一切回收的手。
+
+还有人拆除他人铺设好的电线，  
+用废铜换来一天的温饱。
+
+更多的则是犹豫的手：  
+**是堆砌，还是掩埋？**
+
+**如果你决定堆砌，那么，欢迎来到洛科瓦。**
+
+我们于垃圾堆中回收，以 **Tech**、**Fic** 和 **Art**，堆砌成这一座属于 Z 世代的城市。
