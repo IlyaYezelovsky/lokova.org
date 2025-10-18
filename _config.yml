@@ -6,7 +6,7 @@
 title: "Lokova"
 
 # 站点描述
-description: "Open Community for Dev, Fic and Art"
+description: "Open Community for Tech, Fic and Art"
 
 # 站点基础URL - 非常重要！
 # 对于 Cloudflare Pages，根据你的域名配置：
@@ -112,8 +112,8 @@ plugins:
 # SEO 标签配置
 seo:
   title: true
-  description: true
-  author: true
+  description: false
+  author: false
 
 # 作者信息
 #author:
