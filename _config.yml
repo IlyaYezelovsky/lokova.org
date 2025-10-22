@@ -36,6 +36,8 @@ destination: ./_site
 include:
   - "_pages"
   - ".well-known"
+  - "_includes/head-custom.html"
+
 
 # 排除的文件/目录
 exclude:
