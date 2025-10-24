@@ -16,6 +16,13 @@
       <div class="wrapper">
         <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
       </div>
+      <nav class="navbar">
+        <ul>
+          {% for item in site.data.navigation %}
+            <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
     </header>
 
     <main class="page-content" aria-label="Content">
