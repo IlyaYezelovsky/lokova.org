@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Home"
 show-title: false
 nav_order: 1
