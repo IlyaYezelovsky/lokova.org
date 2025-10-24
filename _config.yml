@@ -168,7 +168,7 @@ seo:
 #logo: "/assets/images/logo.png"
 
 # 站点图标
-#favicon: "/assets/images/favicon.ico"
+favicon: "/assets/L.png"
 
 # 导航菜单
 navigation:
