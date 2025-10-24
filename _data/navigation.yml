@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Tech
+  link: /tech/
+- name: Fic
+  link: /fic/
+- name: Art
+  link: /art/
+- name: Contact
+  link: /contact/
