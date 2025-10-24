@@ -36,7 +36,9 @@ destination: ./_site
 include:
   - "_pages"
   - ".well-known"
-  - "_includes/head-custom.html"
+  - "_includes/head.html"
+  - "_includes/footer.html"
+  - "assets/css/dark.css"
 
 
 # 排除的文件/目录
@@ -86,7 +88,7 @@ paginate_path: "/page:num/"
 # ==============================================
 
 # 主题设置
-theme: minima  # 使用 minima 主题
+theme: null  # 使用 minima 主题
 
 # 或者使用远程主题
 #remote_theme: pages-themes/cayman@v0.2.0
