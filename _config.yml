@@ -34,11 +34,11 @@ destination: ./_site
 
 # 包含的文件/目录
 include:
-  - "_pages"
-  - ".well-known"
-  - "_includes/head.html"
-  - "_includes/footer.html"
-  - "assets/css/dark.css"
+  - _pages
+  - .well-known
+  - _includes/head.html
+  - _includes/footer.html
+  - assets/css/dark.css
 
 
 # 排除的文件/目录
