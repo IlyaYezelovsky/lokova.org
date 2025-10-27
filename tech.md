@@ -9,7 +9,8 @@ layout: default
 
 ## Java
 
-* [classutils](https://github.com/IlyaYezelovsky/classutils)（暂定名） - 一个适用于班级多媒体的小工具，目前支持学生计分管理、随机抽取学生、自动编排座位（早期，含自动导出为 Excel）、自动计算值日生等。目前仅适配我们班，如有需求请自行修改。
+* [classutils](https://github.com/IlyaYezelovsky/classutils)（暂定名） - 一个适用于班级多媒体的小工具，目前支持学生计分管理、随机抽取学生、自动编排座位（早期，含自动导出为 Excel）、自动计算值日生等。~~目前仅适配我们班，如有需求请自行修改。~~目前已将自定义适配提上开发计划。
+* LokovaCommonAPI - 一些奇奇怪怪的 API，不知道有什么用（
 
 ## Minecraft
 
