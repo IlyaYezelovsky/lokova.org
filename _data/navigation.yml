@@ -2,6 +2,8 @@
   link: /
 - name: About
   link: /about/
+- name: Announcements
+  link: /announcements
 - name: Tech
   link: /tech/
 - name: Fic
@@ -10,3 +12,5 @@
   link: /art/
 - name: Contact
   link: /contact/
+- name: Blog
+  link: /blog/
