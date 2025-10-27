@@ -27,6 +27,6 @@ Gaming is not just entertainment - it's a mindset, a problem-solving ability, an
 In this city, we are not defined; we define the future together. Let's build a world that truly belongs to us with an open heart, free thought, and creative passion!
 
 <div align="right">
-**All Lokova Residents
-Sunday, September 1, Z30**
+<p style="text-align: right; font-weight: bold;">All Lokova Residents<br>
+Sunday, September 1, Z30</p>
 </div>
