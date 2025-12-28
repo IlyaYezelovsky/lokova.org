@@ -1,5 +1,5 @@
 ---
-title: Declaration
+title: 洛科瓦共同宣言
 layout: default
 ---
 

@@ -1,16 +1,12 @@
-- name: Home
+- name: 主页
   link: /
-- name: About
+- name: 关于
   link: /about/
-- name: Announcements
+- name: 公告
   link: /announcements
-- name: Tech
-  link: /tech/
-- name: Fic
-  link: /fic/
-- name: Art
-  link: /art/
-- name: Contact
+- name: 设定
+  link: /settings/
+- name: 项目
+  link: /projects/
+- name: 联系
   link: /contact/
-- name: Blog
-  link: /blog/
