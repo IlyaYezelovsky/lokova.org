@@ -1,6 +1,6 @@
 ---
 layout: default
-title:"设定中心"
+title: 设定中心
 ---
 
 #设定中心
