@@ -11,7 +11,7 @@ nav_order: 2
 
 ## 我们的信念
 
-我们的宣言：[Joint Declaration of Lokova](https://www.lokova.org/declaration)，你可以从中对我们的信念略知一二。
+我们的宣言：[Joint Declaration of Lokova](/declaration)，你可以从中对我们的信念略知一二。
 
 这个话题无法用文字给出一个清楚的定义，需要你自己从本站的文章中体会。
 
