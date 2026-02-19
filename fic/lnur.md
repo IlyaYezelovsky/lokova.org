@@ -1,5 +1,5 @@
 ---
-title:L'NUR
+title: L'NUR
 layout: default
 ---
 
