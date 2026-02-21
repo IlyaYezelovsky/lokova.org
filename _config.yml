@@ -102,6 +102,12 @@ sass:
 # 插件配置
 # ==============================================
 
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  
 # 插件列表
 plugins:
   - jekyll-feed
