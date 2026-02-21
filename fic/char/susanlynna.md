@@ -3,9 +3,13 @@ title: 苏珊琳娜
 layout: default
 ---
 
+# 苏珊琳娜
+
 洛科瓦系列人设字第2号<br>
 UUID：`082271c3-52cc-4499-a3bc-69ff19c62416`<br>
 系列内身份证号：`1101031506110762`<br>
+
+## 基本信息
 
 * **姓名：**
   * （英语）Susanlynna Zelina Yezelovenonna
