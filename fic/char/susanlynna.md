@@ -1,6 +1,7 @@
 ---
 title: 苏珊琳娜
 layout: default
+permalink: /char/susanlynna
 ---
 
 # 苏珊琳娜

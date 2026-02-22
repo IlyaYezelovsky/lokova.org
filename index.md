@@ -2,7 +2,6 @@
 layout: default
 title: "Home"
 show-title: false
-nav_order: 1
 ---
 
 > 这个世界是一座巨大的垃圾场。  

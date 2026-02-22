@@ -1,9 +1,10 @@
 ---
-title: Announcements
+title: 公告
 layout: default
+permalink: /announcements
 ---
 
-# Announcements
+# 公告
 
 **2025/11/09 (Sun)**
 

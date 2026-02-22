@@ -1,6 +1,7 @@
 ---
 title: 伊利亚
 layout: default
+permalink: /char/ilya
 ---
 
 # 伊利亚
